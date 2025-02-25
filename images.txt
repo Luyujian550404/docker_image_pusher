@@ -1,2 +1,2 @@
-elasticsearch:7.17.5
+clickhouse/clickhouse-server:24.8.4.13
 --platform=linux/arm64 xiaoyaliu/alist
